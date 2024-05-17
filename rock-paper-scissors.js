@@ -9,11 +9,15 @@ if(player1 === "rock" && player2 === "paper") {
 // TODO: write all the conditions to indicate who will win the game.
 
 
+// TODO: Add some HTML and CSS to make the page nice
 
-<input type="password" name="p1" />
+
+// Bonus: research innerHTML to put the result of the game into the element with id of "result".
 
 // Bonus: add a form to allow for player to enter their guesses. Hint: Try <input type="password" name=p1 /> in a form in the html
 
-// Bonus: allow players to enter their names.
+// Bonus: allow players to enter their names and display them on the page.
 
-// Extra bonus: try and make the names persist so the players don't need to enter their names each play
+// Bonus: add additional feature you might think of. 
+
+// Super Extra bonus: Try and make the names persist so the players don't need to enter their names each play
